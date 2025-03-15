@@ -1,0 +1,3 @@
+git branch -d development
+git branch development
+git switch development
